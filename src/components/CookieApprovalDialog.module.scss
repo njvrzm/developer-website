@@ -35,10 +35,12 @@
   font-size: 13px;
   line-height: 21px;
   color: var(--color-neutrals-500);
+  padding-right: 1rem;
 }
 
 .ctaContainer {
   margin-left: 1rem;
+  display: flex;
   flex-shrink: 0;
 }
 
